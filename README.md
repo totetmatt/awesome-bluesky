@@ -22,6 +22,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Handle Directory](https://blue.mackuba.eu/directory/) - Bluesky handles directory (TLDs, PDSes, Fediverse)
  - [Skircle](https://skircle.me/) - Generate social circle images
  - [Wolfgang](https://wolfgang.raios.xyz/) - Interactions, social circles, blocks
+ - [Gephi Bluesky Plugin](https://gephi.org/plugins/#/plugin/bluesky-gephi) - Gephi plugin for Follower Graph
 
 ## Events
  - [Smoke Signal](https://smokesignal.events/) - Event and RSVP management
